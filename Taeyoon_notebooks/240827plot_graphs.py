@@ -51,7 +51,7 @@ def process_jsonl_file(input_file, output_dir):
             highlighted_cells = data.get("input", {}).get("metadata", {}).get("highlighted_cells", [])
             
             # Prepare output file name
-            output_file = os.path.join(output_dir, f'{index}.png')
+            output_file = os.path.join(output_dir, f'{index+1}.png')
             
             # Draw table with highlighted cells
             draw_table_with_highlights(table_data, highlighted_cells, output_file)
