@@ -1,0 +1,18 @@
+{
+  "input": {
+    "metadata": {
+      "title": "2019회계연도 결산 위원회별 분석-행정안전부",
+      "table_title": "2019회계연도 행정안전부 소관 총수입 결산",
+      "date": "2020-08-07",
+      "publisher": "국회예산정책처"
+    },
+    "table_xml": "<table><row><value>결산(C)</value><is_header>False</is_header><col>4</col><colspan>1</colspan><row>1</row><rowspan>2</rowspan></row><row><value>총수입</value><is_header>False</is_header><col>0</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>48,999</value><is_header>False</is_header><col>1</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>58,877</value><is_header>False</is_header><col>2</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>58,877</value><is_header>False</is_header><col>3</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>61,152</value><is_header>False</is_header><col>4</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>2,275</value><is_header>False</is_header><col>5</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>12,153</value><is_header>False</is_header><col>6</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>전년대비(C-A)</value><is_header>True</is_header><col>6</col><colspan>1</colspan><row>0</row><rowspan>3</rowspan></row><row><value>총수입</value><is_header>False</is_header><col>0</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>48,999</value><is_header>False</is_header><col>1</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>58,877</value><is_header>False</is_header><col>2</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>58,877</value><is_header>False</is_header><col>3</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>61,152</value><is_header>False</is_header><col>4</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>2,275</value><is_header>False</is_header><col>5</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row><row><value>12,153</value><is_header>False</is_header><col>6</col><colspan>1</colspan><row>3</row><rowspan>1</rowspan></row></table>"
+  },
+  "output": [
+    "2019회계연도 행정안전부 소관 총수입 결산은 전년 대비 121억 5,300만 원이 증가한 611억 5,200만 원으로 나타났다.",
+    "전년도보다 121억 5,300만 원이 더해진 2019회계연도 행정안전부 소관 총수입은 611억 5,200만 원으로 집계되었다.",
+    "2019회계연도 행정안전부 소관 총수입 결산은 611억 5,200만 원을 기록하여 전년 대비 121억 5,300만 원 증가했다.",
+    "2019년 회계연도 행정안전부 소관 총수입 결산은 2018년 대비 121억 5,300만 원 증가했으며, 611억 5,200만 원이다.",
+    "611억 5,200만 원으로 나타난 2019회계연도 행정안전부 소관 총수입 결산은 2020년과 비교하여 121억 5,300만 원이 증가한 금액이다."
+  ]
+}
