@@ -5,7 +5,13 @@ def filter_table_by_highlighted_cells(table, highlighted_cells):
     filtered_table = []
     for row, col in highlighted_cells:
         for cell in table:
-            if cell['row'] == col and cell['col'] == row or cell['row'] == 0 and cell['col'] == row or cell['row'] == col and cell['col'] == 0 or cell['row'] == col and cell['rowspan'] != 0 or cell['row'] == col and cell['colspan'] != 0 or cell['col'] == row and cell['colspan'] != 0 or cell['col'] == row and cell['rowspan'] != 0:
+            if (cell['row'] == col and cell['col'] == row) or \
+               (cell['row'] == 0 and cell['col'] == row) or \
+               (cell['row'] == col and cell['col'] == 0) or \
+               (cell['row'] == col and cell.get('rowspan', 0) != 0) or \
+               (cell['row'] == col and cell.get('colspan', 0) != 0) or \
+               (cell['col'] == row and cell.get('colspan', 0) != 0) or \
+               (cell['col'] == row and cell.get('rowspan', 0) != 0):
                 filtered_table.append(cell)
     return filtered_table
 
@@ -42,12 +48,16 @@ def process_jsonl_file(input_file, output_file):
             if "id" in data:
                 del data["id"]
             
+            # Keep only the first element of the output list and convert to string
+            if isinstance(data.get("output"), list) and len(data["output"]) > 0:
+                data["output"] = data["output"][0]
+            
             # Write the modified data back to the output file
             outfile.write(json.dumps(data, ensure_ascii=False) + '\n')
 
 # Input and Output file paths
-input_file = 'nikluge-gtps-2023-test.jsonl'
-output_file = 'test_only_highlight.jsonl'
+input_file = 'nikluge-gtps-2023-train.jsonl'
+output_file = 'train_only_highlight_.jsonl'
 
 # Process the file
 process_jsonl_file(input_file, output_file)
