@@ -40,7 +40,6 @@ def process_jsonl(input_file, output_file):
             
             metadata.pop('url', None)
             metadata.pop('publisher', None)
-            metadata.pop('title', None)
             metadata.pop('date', None)
             
             json.dump(record, outfile, ensure_ascii=False)
@@ -48,7 +47,7 @@ def process_jsonl(input_file, output_file):
 
 # 입력 파일 경로와 출력 파일 경로
 input_file = '240829_1_replicate_colrowspan.jsonl'
-output_file = '240829_2_remove_redundancy.jsonl'
+output_file = '240829_2_remove_redundancy_with_title.jsonl'
 
 # JSONL 파일 처리
 process_jsonl(input_file, output_file)

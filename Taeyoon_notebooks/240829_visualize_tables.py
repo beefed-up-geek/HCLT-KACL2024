@@ -6,8 +6,8 @@ from pathlib import Path
 output_dir = Path("visualized")
 output_dir.mkdir(exist_ok=True)
 
-# Function to create HTML table
-def create_html_table(table_data):
+# Function to create HTML table with highlighted cells
+def create_html_table(table_data, highlighted_cells):
     table_html = '<table border="1" cellpadding="5" cellspacing="0">\n'
     max_col = max(cell['col'] + cell.get('colspan', 1) - 1 for cell in table_data)
     max_row = max(cell['row'] + cell.get('rowspan', 1) - 1 for cell in table_data)
@@ -22,7 +22,11 @@ def create_html_table(table_data):
                 rowspan = cell_data.get('rowspan', 1)
                 value = cell_data['value']
                 
-                cell_html = f'    <td colspan="{colspan}" rowspan="{rowspan}">{value}</td>\n'
+                # Check if this cell should be highlighted
+                if [col_index, row_index] in highlighted_cells:
+                    cell_html = f'    <td colspan="{colspan}" rowspan="{rowspan}" style="background-color: yellow;">{value}</td>\n'
+                else:
+                    cell_html = f'    <td colspan="{colspan}" rowspan="{rowspan}">{value}</td>\n'
                 row_html += cell_html
                 
                 # Skip over columns occupied by colspan
@@ -46,7 +50,8 @@ with open(input_file, 'r', encoding='utf-8') as f:
         # Generate HTML content
         html_content = f"<html>\n<head><title>{entry_id}</title></head>\n<body>\n"
         html_content += f"<h1>{entry['input']['metadata']['title']}</h1>\n"
-        html_content += create_html_table(table_data)
+        html_content += f"<h2>{entry['input']['metadata']['table_title']}</h2>\n"
+        html_content += create_html_table(table_data, highlighted_cells)
 
         # Add highlighted_cells info below the table
         html_content += "<div>\n"
