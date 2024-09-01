@@ -1,0 +1,66 @@
+from google.colab import drive
+import os
+
+import requests
+import random
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+# Hugging Face API 토큰 설정
+huggingface_token = "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"
+
+# 모델 및 토크나이저 로드
+model = AutoModelForCausalLM.from_pretrained(
+    "LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct",
+    torch_dtype=torch.bfloat16,
+    trust_remote_code=True,
+    device_map="auto",
+    use_auth_token=huggingface_token
+)
+tokenizer = AutoTokenizer.from_pretrained(
+    "LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct",
+    use_auth_token=huggingface_token
+)
+# Google Drive를 마운트
+drive.mount('/content/drive')
+
+# 저장할 경로 설정 (예: Google Drive 내 'exaone_model' 폴더)
+save_directory = '/content/drive/MyDrive/exaone_model'
+
+# 경로가 없으면 생성
+if not os.path.exists(save_directory):
+    os.makedirs(save_directory)
+
+# 모델과 토크나이저 저장
+model.save_pretrained(save_directory)
+tokenizer.save_pretrained(save_directory)
+
+print(f"모델이 {save_directory}에 저장되었습니다.")
+
+
+
+
+from google.colab import drive
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+# Google Drive를 마운트
+drive.mount('/content/drive')
+
+# 저장된 경로 설정 (모델이 저장된 경로로 변경)
+save_directory = '/content/drive/MyDrive/exaone_model'
+
+# 모델 및 토크나이저 로드
+model = AutoModelForCausalLM.from_pretrained(
+    save_directory,
+    torch_dtype=torch.bfloat16,
+    trust_remote_code=True,
+    device_map="auto"
+)
+tokenizer = AutoTokenizer.from_pretrained(
+    save_directory
+)
+
+print("모델이 성공적으로 로드되었습니다.")
+
+
