@@ -5,7 +5,6 @@
 
 본 레포지토리는 Tabular-TX의 구현체와 실험 결과를 포함하고 있으며, 특히 **한국어 테이블 요약**에 대한 우수한 성능을 보입니다.
 
----
 
 ## Key Features
 - **Theme-Explanation 구조**  
@@ -15,7 +14,6 @@
 - **효율적인 전처리(Preprocessing)**: 테이블을 key-value 딕셔너리 형태로 변환하여 모델 이해도를 높입니다.
 - **다양한 데이터 타입 지원**: 수치, 퍼센트, 텍스트 등 다양한 형식을 분석하여 정확한 요약을 생성합니다.
 
----
 
 ## Usage Example
 간단한 예시를 통해 Tabular-TX가 어떤 식으로 데이터를 입력받고 요약문을 생성하는지 살펴볼 수 있습니다.
@@ -38,7 +36,6 @@ Theme: "K-POP Albums Sales에 따르면"
 Explanation: "올해 1월에 발매된 Group A의 Album X가 100만 장으로 가장 높은 판매량을 보이며, Group B는 약 75만 장을 판매했습니다."
 ```
 
----
 
 ## Repository Structure
 - `src/`: Tabular-TX 파이프라인의 메인 소스 코드
@@ -49,7 +46,6 @@ Explanation: "올해 1월에 발매된 Group A의 Album X가 100만 장으로 �
 - `notebooks/`: Jupyter 노트북 (추가 실험, 시각화 및 튜토리얼)
 - `results/`: 실험 결과 및 평가 지표
 
----
 
 ## Installation
 아래 단계대로 로컬 환경에서 프로젝트를 실행할 수 있습니다:
@@ -66,7 +62,6 @@ Explanation: "올해 1월에 발매된 Group A의 Album X가 100만 장으로 �
    ```
    > Python 3.7 이상 환경을 권장합니다.
 
----
 
 ## Usage
 
@@ -98,7 +93,6 @@ python src/evaluate.py \
 - **references**: 정답(래퍼런스) 문서 경로  
 - ROUGE 및 BLEU 스코어가 콘솔에 출력됩니다.
 
----
 
 ## Results
 아래 표는 Tabular-TX가 달성한 핵심 평가 지표(ROUGE, BLEU)를 보여줍니다:
@@ -109,13 +103,11 @@ python src/evaluate.py \
 | **Tabular-TX (Llama-Korean)**| 0.48    | 0.37    | 0.42 | 0.43    |
 | Fine-tuned Baseline          | 0.37    | 0.28    | 0.35 | 0.33    |
 
----
 
 ## Contributing
 Tabular-TX는 오픈 소스로 운영됩니다. 새로운 기능 제안이나 버그 리포트를 원하시면 [이슈](https://github.com/your-repo/Tabular-TX/issues)를 통해 남겨주세요.  
 풀 리퀘스트(PR)도 언제나 환영합니다!
 
----
 
 ## HCLT-KACL2024
 아래는 HCLT-KACL2024 관련 링크 모음입니다:
@@ -123,7 +115,6 @@ Tabular-TX는 오픈 소스로 운영됩니다. 새로운 기능 제안이나 �
 - KoBART 학습 코드: [링크](https://github.com/teddysum/korean_T2T_baseline/blob/main/run/train.py)
 - 공식 scoring 코드: [링크](https://github.com/teddysum/korean_T2T_baseline/blob/main/run/scoring.py)
 
----
 
 ## Citation
 이 프로젝트가 연구에 도움이 되었다면, 아래의 논문을 인용해주세요:
@@ -136,12 +127,10 @@ Tabular-TX는 오픈 소스로 운영됩니다. 새로운 기능 제안이나 �
 }
 ```
 
----
 
 ## License
 이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [`LICENSE`](LICENSE) 파일을 참고하세요.
 
----
 
 ## Contact
 프로젝트 관련 문의 사항은 아래 이메일로 연락 부탁드립니다:
