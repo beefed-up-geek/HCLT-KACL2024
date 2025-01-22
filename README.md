@@ -1,6 +1,6 @@
 # Tabular-TX: Theme-Explanation Structure-based Table Summarization via In-Context Learning
 
-- ** ✨ 논문 보러 가기 : [논문 링크](https://arxiv.org/abs/2501.10487)**
+- **✨ 논문 보러 가기 :** [**논문 링크**](https://arxiv.org/abs/2501.10487)
 
 ## Introduction
 **Tabular-TX**는 **In-Context Learning(ICL)** 방식을 활용하여 테이블 데이터를 요약하는 **Theme-Explanation 구조** 기반 파이프라인입니다. 기존 테이블 요약 방법은 대규모 언어모델(LLM) 직접 학습(fine-tuning)이 필요하거나, 대화형 방식으로 정확한 맥락을 유지하기 어려운 문제가 있었습니다. Tabular-TX는 테이블에서 핵심 주제(Theme)와 설명(Explanation)을 분리해, **최소한의 자원**으로도 정확도 높은 문장을 생성할 수 있도록 돕습니다.
