@@ -1,0 +1,233 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9" pages="2">
+  <diagram name="Page-1" id="yxwXsdiWKxEKS9QtvNcz">
+    <mxGraphModel dx="803" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-30" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="130" y="30" width="640" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-30">
+          <mxGeometry width="640" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-32" value="사업명&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Project Name&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-31">
+          <mxGeometry width="160" height="87" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-33" value="2019 결산&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128); font-size: 12px;&quot;&gt;2019 Settlement&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=2;colspan=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-31">
+          <mxGeometry x="160" width="160" height="87" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-34" value="2020" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=1;colspan=2;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-31">
+          <mxGeometry x="320" width="320" height="43" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;" vertex="1" visible="0" parent="u76O6TEBnOGE8WRzrHHs-31">
+          <mxGeometry x="480" width="160" height="43" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-30">
+          <mxGeometry y="43" width="640" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;" vertex="1" visible="0" parent="u76O6TEBnOGE8WRzrHHs-36">
+          <mxGeometry width="160" height="44" as="geometry">
+            <mxRectangle width="160" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=13;" vertex="1" visible="0" parent="u76O6TEBnOGE8WRzrHHs-36">
+          <mxGeometry x="160" width="160" height="44" as="geometry">
+            <mxRectangle width="160" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-39" value="본예산&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Main Budget&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-36">
+          <mxGeometry x="320" width="160" height="44" as="geometry">
+            <mxRectangle width="160" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-40" value="추경(A)&lt;br&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Supplementary Budget(A)&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-36">
+          <mxGeometry x="480" width="160" height="44" as="geometry">
+            <mxRectangle width="160" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-30">
+          <mxGeometry y="87" width="640" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-42" value="고충민원조사활동&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;High-Rise Civil Complaint Investigation Activities&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-41">
+          <mxGeometry width="160" height="43" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-43" value="1,286" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-41">
+          <mxGeometry x="160" width="160" height="43" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-44" value="1,295" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-41">
+          <mxGeometry x="320" width="160" height="43" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-45" value="1,295" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-41">
+          <mxGeometry x="480" width="160" height="43" as="geometry">
+            <mxRectangle width="160" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="171" width="610" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;{ &#39;row&#39;: 1, &#39;col&#39;: 1, &#39;rowspan&#39;: 2, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;사업명&#39;}&lt;br&gt;{ &#39;row&#39;: 1, &#39;col&#39;: 2, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 2, &#39;value&#39;: &#39;2019 결산&#39;}&lt;br&gt;{ &#39;row&#39;: 1, &#39;col&#39;: 4, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 2, &#39;value&#39;: &#39;2020&#39;}&lt;br&gt;{ &#39;row&#39;: 2, &#39;col&#39;: 2, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;본예산&#39;}&lt;br&gt;{ &#39;row&#39;: 2, &#39;col&#39;: 3, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;추경(A)&#39;}&lt;br&gt;{ &#39;row&#39;: 3, &#39;col&#39;: 1, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;고층민원조사활동&#39;}&lt;br&gt;{ &#39;row&#39;: 3, &#39;col&#39;: 2, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;1,286&#39;}&lt;br&gt;{ &#39;row&#39;: 3, &#39;col&#39;: 3, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;1,295&#39;}&lt;br&gt;{ &#39;row&#39;: 3, &#39;col&#39;: 4, &#39;rowspan&#39;: 1, &#39;colspan&#39;: 1, &#39;value&#39;: &#39;1,295&#39;}&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-52">
+          <mxGeometry x="40" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-52">
+          <mxGeometry x="109" y="42" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-52">
+          <mxGeometry x="109" y="138" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-52">
+          <mxGeometry x="250" y="138" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="u76O6TEBnOGE8WRzrHHs-52">
+          <mxGeometry x="250" y="42" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="u76O6TEBnOGE8WRzrHHs-52" source="u76O6TEBnOGE8WRzrHHs-48" target="u76O6TEBnOGE8WRzrHHs-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="170" as="sourcePoint" />
+            <mxPoint x="220" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="150" />
+              <mxPoint y="100" />
+              <mxPoint y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;고층민원조사활동 추경(A)가 1,295,000,000 원인 해의 연도를 알려줘&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Tell me the year when the supplementary budget (A) for the High-Rise Civil Complaint Investigation Activities was 1,295,000,000 KRW.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u76O6TEBnOGE8WRzrHHs-54" value="&lt;div&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;이 표는 2019년도 2020년도 고층민원조사활동을 다루고 있지만 1,295,000,000 원인 해의 연도는 알 수 없습니다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(128, 128, 128), rgb(255, 255, 255));&quot;&gt;This table covers the High-Rise Civil Complaint Investigation Activities for 2019 and 2020, but it does not indicate the year in which the supplementary budget of 1,295,000,000 KRW was allocated.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="640" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="45D8O3KuXixtNbWzVwn4" name="Page-2">
+    <mxGraphModel dx="953" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E22jyQExJnd90E-P1zvn-27" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="10" y="30" width="800" height="331.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-27" vertex="1">
+          <mxGeometry width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-29" value="예산과목&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Budget Category&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-28" vertex="1">
+          <mxGeometry width="220" height="60" as="geometry">
+            <mxRectangle width="220" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-30" value="용 도&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Usage&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-28" vertex="1">
+          <mxGeometry x="220" width="580" height="60" as="geometry">
+            <mxRectangle width="580" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-27" vertex="1">
+          <mxGeometry y="60" width="800" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-32" value="운영비(210)&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Operating Expenses (210)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-31" vertex="1">
+          <mxGeometry width="220" height="102" as="geometry">
+            <mxRectangle width="220" height="102" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-33" value="건당 500만원이하의 경비(단, 공관금 및 위원회 참석비, 선거 관련 용품제작·인쇄비용·우편요금, 청사임차료, 기업특별회계 당해 사업에 직접 소요되는 경비는 금액제한 없음).&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128); font-size: 12px;&quot;&gt;Expenses of up to 5 million KRW per case (However, there is no spending limit for embassy fees, committee attendance fees, election-related item production/printing costs, postage fees, building rental fees, and expenses directly related to projects under the corporate special accounting).&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-31" vertex="1">
+          <mxGeometry x="220" width="580" height="102" as="geometry">
+            <mxRectangle width="580" height="102" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-27" vertex="1">
+          <mxGeometry y="162" width="800" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-35" value="여비(220)&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Travel Expenses (220)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-34" vertex="1">
+          <mxGeometry width="220" height="68" as="geometry">
+            <mxRectangle width="220" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-36" value="전체&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Entirely covered&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-34" vertex="1">
+          <mxGeometry x="220" width="580" height="68" as="geometry">
+            <mxRectangle width="580" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-27" vertex="1">
+          <mxGeometry y="230" width="800" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-38" value="업무추진비(240)&lt;div&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Business Promotion Expenses (240)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-37" vertex="1">
+          <mxGeometry width="220" height="102" as="geometry">
+            <mxRectangle width="220" height="102" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-39" value="건당 500만원 이하의 경비(단, 기업특별회계의 당해 사업에 직접 소요되는 경비는 금액제한 없음)&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128); font-size: 12px;&quot;&gt;Expenses of up to 5 million KRW per case (However, there is no spending limit for expenses directly related to projects under the corporate special accounting).&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="E22jyQExJnd90E-P1zvn-37" vertex="1">
+          <mxGeometry x="220" width="580" height="102" as="geometry">
+            <mxRectangle width="580" height="102" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;highlighted_cells : [(0,1), (1,1)]&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="363" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-53" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="410" width="800" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt; Non persona prompt &amp;gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="E22jyQExJnd90E-P1zvn-53" vertex="1">
+          <mxGeometry width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-42" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" parent="E22jyQExJnd90E-P1zvn-53" vertex="1">
+          <mxGeometry y="40" width="800" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-42" vertex="1">
+          <mxGeometry width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;위의 표의 내용을 요약해줘&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Summarize the contents of the table above.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-43" vertex="1">
+          <mxGeometry width="800" height="40" as="geometry">
+            <mxRectangle width="800" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-42" vertex="1">
+          <mxGeometry y="40" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-46" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;운영비(210)는 500만 원 이하의 경비가 기업 특별회계 사업에 직접 소요되는 경비로 사용되며, 후자의 경우 금액 제한이 없습니다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Operating expenses (210) are limited to costs of up to 5 million KRW per case unless they are directly used for corporate special accounting projects, in which case there is no spending limit.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-45" vertex="1">
+          <mxGeometry width="800" height="100" as="geometry">
+            <mxRectangle width="800" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-54" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="610" width="800" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt; Reporter persona-applied prompt &amp;gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="E22jyQExJnd90E-P1zvn-54" vertex="1">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-56" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" parent="E22jyQExJnd90E-P1zvn-54" vertex="1">
+          <mxGeometry y="40" width="800" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-56" vertex="1">
+          <mxGeometry width="800" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-58" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;너는 한 문장짜리 기사를 쓰는 신문 기자야. 이 표에서 highlighted_cells를 모두 언급하여 한 문장으로 기사를 써줘.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;You are a newspaper journalist writing a one-sentence news article. Write a single sentence mentioning all the highlighted_cells in the table.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-57" vertex="1">
+          <mxGeometry width="800" height="46" as="geometry">
+            <mxRectangle width="800" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-56" vertex="1">
+          <mxGeometry y="46" width="800" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="E22jyQExJnd90E-P1zvn-60" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;보건복지부 관서 운영비 한도에 따르면 운영비(210)는 공관금 및 위원회 참석비, 선거 관련 용품 제작·인쇄 비용·우편요금, 청사 임차료 등을 포함하여 건당 500만원 이하로 제한되며, 여비(220)는 전체적으로 적용된다.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;According to the Ministry of Health and Welfare&#39;s office operating expense limits, operating expenses (210) are restricted to 5 million KRW per case, including embassy fees, committee attendance fees, election-related item production and printing costs, postage fees, and building rental fees, while travel expenses (220) are fully covered.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-59" vertex="1">
+          <mxGeometry width="800" height="114" as="geometry">
+            <mxRectangle width="800" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

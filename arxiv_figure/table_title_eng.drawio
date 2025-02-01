@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram id="ceLixEqyPB-IJiODqdnm" name="Page-1">
+    <mxGraphModel dx="803" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m19ucEdoYGM46lPyfG_x-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="680" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="462" width="680" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Summary without Table Title&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="140" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Summary with Table Title&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;and Theme-Explanation(TX) Structure&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="422" width="690" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="205" y="203" width="440" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-19" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-35">
+          <mxGeometry x="15" width="410" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-19">
+          <mxGeometry width="410" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-21" value="구분&lt;br&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Category&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-20">
+          <mxGeometry width="136" height="48" as="geometry">
+            <mxRectangle width="136" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-22" value="신청&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Application&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-20">
+          <mxGeometry x="136" width="138" height="48" as="geometry">
+            <mxRectangle width="138" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-23" value="인정&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Approval&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-20">
+          <mxGeometry x="274" width="136" height="48" as="geometry">
+            <mxRectangle width="136" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-19">
+          <mxGeometry y="48" width="410" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-25" value="계&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Total&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-24">
+          <mxGeometry width="136" height="39" as="geometry">
+            <mxRectangle width="136" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-26" value="2,437" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-24">
+          <mxGeometry x="136" width="138" height="39" as="geometry">
+            <mxRectangle width="138" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-27" value="147" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-24">
+          <mxGeometry x="274" width="136" height="39" as="geometry">
+            <mxRectangle width="136" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;신청 건수는 2437건이고 인정된 건수는 147건이다.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;The number of applications is 2,437, and the number of approved cases is 147.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-35">
+          <mxGeometry y="140" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="205" y="496" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-37" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-36">
+          <mxGeometry x="15" width="410" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-37">
+          <mxGeometry width="410" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-39" value="구분&lt;br&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Category&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-38">
+          <mxGeometry width="136" height="48" as="geometry">
+            <mxRectangle width="136" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-40" value="신청&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Application&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-38">
+          <mxGeometry x="136" width="138" height="48" as="geometry">
+            <mxRectangle width="138" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-41" value="인정&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Approval&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-38">
+          <mxGeometry x="274" width="136" height="48" as="geometry">
+            <mxRectangle width="136" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-37">
+          <mxGeometry y="48" width="410" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-43" value="계&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Total&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-42">
+          <mxGeometry width="136" height="39" as="geometry">
+            <mxRectangle width="136" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-44" value="2,437" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-42">
+          <mxGeometry x="136" width="138" height="39" as="geometry">
+            <mxRectangle width="138" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-45" value="147" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-42">
+          <mxGeometry x="274" width="136" height="39" as="geometry">
+            <mxRectangle width="136" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;width=19.047619047619047;endSize=3.0285714285714285;" edge="1" parent="m19ucEdoYGM46lPyfG_x-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="93" as="sourcePoint" />
+            <mxPoint x="220" y="114.94000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-47" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;국적별 난민 현황에 따르면 난민 신청 건수는 총 2437건이고&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;그중 인정된 건수는&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;147건으로 매우 낮은 것을 알 수 있다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;According to the refugee status by nationality, the total number of refugee applications is 2,437,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;and among them, only 147 have been approved, indicating a very low approval rate.&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="m19ucEdoYGM46lPyfG_x-36">
+          <mxGeometry x="-90" y="113" width="620" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Table title: 국적별 난민 현황 &lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;(Refugee Status by Nationality)&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="466" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m19ucEdoYGM46lPyfG_x-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;width=19.047619047619047;endSize=3.0285714285714285;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="310" as="sourcePoint" />
+            <mxPoint x="425" y="331.94000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
