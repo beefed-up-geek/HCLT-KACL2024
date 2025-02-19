@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram id="45D8O3KuXixtNbWzVwn4" name="Page-2">
-    <mxGraphModel dx="777" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,16 +65,16 @@
         <mxCell id="E22jyQExJnd90E-P1zvn-53" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="10" y="410" width="800" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt; Non persona prompt &amp;gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="E22jyQExJnd90E-P1zvn-53" vertex="1">
-          <mxGeometry width="210" height="40" as="geometry" />
+        <mxCell id="E22jyQExJnd90E-P1zvn-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;Generic prompt&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="E22jyQExJnd90E-P1zvn-53" vertex="1">
+          <mxGeometry x="335" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-42" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" parent="E22jyQExJnd90E-P1zvn-53" vertex="1">
-          <mxGeometry y="40" width="800" height="140" as="geometry" />
+        <mxCell id="E22jyQExJnd90E-P1zvn-42" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;strokeColor=none;" parent="E22jyQExJnd90E-P1zvn-53" vertex="1">
+          <mxGeometry x="-10" y="30" width="800" height="140" as="geometry" />
         </mxCell>
         <mxCell id="E22jyQExJnd90E-P1zvn-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-42" vertex="1">
           <mxGeometry width="800" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;위의 표의 내용을 요약해줘&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Summarize the contents of the table above.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-43" vertex="1">
+        <mxCell id="E22jyQExJnd90E-P1zvn-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;위의 표에서 highlighted_cells를 모두 언급하여 내용을 요약해줘&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;Summarize the contents of the table above by mentioning all highlighted_cells in the table above.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-43" vertex="1">
           <mxGeometry width="800" height="40" as="geometry">
             <mxRectangle width="800" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -82,34 +82,58 @@
         <mxCell id="E22jyQExJnd90E-P1zvn-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-42" vertex="1">
           <mxGeometry y="40" width="800" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-46" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;운영비(210)는 500만 원 이하의 경비가 기업 특별회계 사업에 직접 소요되는 경비로 사용되며, 후자의 경우 금액 제한이 없습니다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Operating expenses (210) are expenses of 5 million won or less and are used directly for corporate special accounting projects, and in the case of the latter, there is no limit to the amount.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-45" vertex="1">
+        <mxCell id="E22jyQExJnd90E-P1zvn-46" value="&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;운영비(210)는 500만 원 이하의 경비가 기업 특별회계 사업에 직접 소요되는 경비로 사용되며, 후자의 경우 금액 제한이 없습니다.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: rgb(128, 128, 128);&quot;&gt;Operating expenses (210) are expenses of 5 million won or less and are used directly for corporate special accounting projects, and in the case of the latter, there is no limit to the amount.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-45" vertex="1">
           <mxGeometry width="800" height="100" as="geometry">
             <mxRectangle width="800" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeF-mggR1Fk1MOXbZiX7-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="E22jyQExJnd90E-P1zvn-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" as="sourcePoint" />
+            <mxPoint x="800" y="-2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeF-mggR1Fk1MOXbZiX7-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="E22jyQExJnd90E-P1zvn-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="32" as="sourcePoint" />
+            <mxPoint x="798.4000000000001" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E22jyQExJnd90E-P1zvn-54" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="10" y="610" width="800" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;lt; Reporter persona-applied prompt &amp;gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="E22jyQExJnd90E-P1zvn-54" vertex="1">
-          <mxGeometry width="320" height="40" as="geometry" />
+        <mxCell id="E22jyQExJnd90E-P1zvn-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Reporter persona-applied prompt&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="E22jyQExJnd90E-P1zvn-54" vertex="1">
+          <mxGeometry x="280" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-56" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;" parent="E22jyQExJnd90E-P1zvn-54" vertex="1">
-          <mxGeometry y="40" width="800" height="160" as="geometry" />
+        <mxCell id="E22jyQExJnd90E-P1zvn-56" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=center;strokeColor=none;" parent="E22jyQExJnd90E-P1zvn-54" vertex="1">
+          <mxGeometry y="40" width="800" height="184" as="geometry" />
         </mxCell>
         <mxCell id="E22jyQExJnd90E-P1zvn-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-56" vertex="1">
-          <mxGeometry width="800" height="46" as="geometry" />
+          <mxGeometry width="800" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-58" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;너는 한 문장짜리 기사를 쓰는 신문 기자야. 이 표에서 highlighted_cells를 모두 언급하여 한 문장으로 기사를 써줘.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;You are a newspaper journalist writing a one-sentence news article. Write a single sentence mentioning all the highlighted_cells in the table.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-57" vertex="1">
-          <mxGeometry width="800" height="46" as="geometry">
-            <mxRectangle width="800" height="46" as="alternateBounds" />
+        <mxCell id="E22jyQExJnd90E-P1zvn-58" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;너는 한 문장짜리 기사를 쓰는 신문 기자야. 이 표에서 highlighted_cells를 모두 언급하여 한 문장으로 기사를 써줘.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;You are a newspaper journalist writing a one-sentence news article. Write a single sentence mentioning all the highlighted_cells in the table.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-57" vertex="1">
+          <mxGeometry width="800" height="70" as="geometry">
+            <mxRectangle width="800" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E22jyQExJnd90E-P1zvn-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="E22jyQExJnd90E-P1zvn-56" vertex="1">
-          <mxGeometry y="46" width="800" height="114" as="geometry" />
+          <mxGeometry y="70" width="800" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="E22jyQExJnd90E-P1zvn-60" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;보건복지부 관서 운영비 한도에 따르면 운영비(210)는 공관금 및 위원회 참석비, 선거 관련 용품 제작·인쇄 비용·우편요금, 청사 임차료 등을 포함하여 건당 500만원 이하로 제한되며, 여비(220)는 전체적으로 적용된다.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;According to the Ministry of Health and Welfare&#39;s office operating expense limits, operating expenses (210) are restricted to 5 million KRW per case, including embassy fees, committee attendance fees, election-related item production and printing costs, postage fees, and building rental fees, while travel expenses (220) are fully covered.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-59" vertex="1">
+        <mxCell id="E22jyQExJnd90E-P1zvn-60" value="&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;보건복지부 관서 운영비 한도에 따르면 운영비(210)는 공관금 및 위원회 참석비, 선거 관련 용품 제작·인쇄 비용·우편요금, 청사 임차료 등을 포함하여 건당 500만원 이하로 제한되며, 여비(220)는 전체적으로 적용된다.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;According to the Ministry of Health and Welfare&#39;s office operating expense limits, operating expenses (210) are restricted to 5 million KRW per case, including embassy fees, committee attendance fees, election-related item production and printing costs, postage fees, and building rental fees, while travel expenses (220) are fully covered.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="E22jyQExJnd90E-P1zvn-59" vertex="1">
           <mxGeometry width="800" height="114" as="geometry">
             <mxRectangle width="800" height="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeF-mggR1Fk1MOXbZiX7-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="E22jyQExJnd90E-P1zvn-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="37" as="sourcePoint" />
+            <mxPoint x="798.4000000000001" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeF-mggR1Fk1MOXbZiX7-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12" y="610" as="sourcePoint" />
+            <mxPoint x="810" y="608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
